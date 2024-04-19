@@ -14,5 +14,7 @@ Configuraciones TWS/IB Gateway
 que son necesarias para conectar un cliente API 
 y aquellas que pueden afectar la realización de pedidos.
 
+Contenido a traducir: [link...](https://ibkrcampus.com/trading-lessons/installing-configuring-tws-for-the-api/ "link...")
+
 |[Atrás](./leccion1.md "Atrás")|[Siguiente](./leccion3.md "Siguiente")|
 |---|---:|
