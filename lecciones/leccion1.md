@@ -1,9 +1,9 @@
+
 # Curso de IBKR: Python TWS API
-|[Atrás](./lecciones/leccion10.md "Atrás")|[Siguiente](./lecciones/leccion2.md "Siguiente")|
+|[Atrás](./leccion10.md "Atrás")|[Siguiente](./leccion2.md "Siguiente")|
 |---|---:|
 
 ## Lección 1: ¿Qué es la API de TWS?
-![alt text](./images/image.png)
 
 A quien está dirigido:  
 
