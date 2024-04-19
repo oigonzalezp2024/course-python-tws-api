@@ -5,15 +5,39 @@
 
 ## Lección 3: Accediendo al código fuente de la API TWS Python
 
-Comenzaremos describiendo cómo obtener acceso al repositorio de código fuente abierto de la API Python de TWS en GitHub y explicaremos las diferencias entre el sitio de descarga público y el repositorio privado de GitHub que tiene un código fuente de última generación. Luego analizamos en qué consiste el código fuente y qué hace, con una vista de alto nivel de la arquitectura API, y mencionamos algunos de los muchos entornos diferentes en los que se ejecutan los programas API de Python.
+Cómo obtener acceso al repositorio de código fuente abierto de la API Python de TWS en GitHub
 
-Primero, haremos la pregunta básica:
+Diferencias entre el sitio de descarga público y 
+el repositorio privado de GitHub 
+que tiene un código fuente de última generación. 
 
-A grandes rasgos, ¿en qué consiste la fuente API y qué hace realmente?
+En qué consiste el código fuente y qué hace
 
-El código fuente de la API sirve para definir los mensajes disponibles que se pueden intercambiar entre TWS y una aplicación API externa. Los mensajes se intercambian a través de una conexión de socket TCP y, por lo general, utilizan un patrón de suscripción y publicación, o " pub/sub ", en el que se envía un mensaje desde un cliente API para suscribirse a un tipo particular de datos, después de lo cual TWS publicar actualizaciones sobre ese tipo de datos a medida que ocurren en tiempo real. El código fuente de la API también ayuda a traducir esos mensajes de nivel inferior a un formato superior que sea más conveniente para los programadores.
+vista de alto nivel de la arquitectura API 
 
-La API es de código abierto y se mantiene mediante el sistema de control de versiones Git y está alojada en el repositorio en línea GitHub (GitHub.com). Todas las actualizaciones realizadas en la fuente de la API a lo largo del tiempo se rastrean mediante Git, y para realizar actualizaciones en la fuente de la API es necesario utilizar el programa Git.
+entornos diferentes en los que se ejecutan los programas API de Python.
+
+¿En qué consiste la fuente API y qué hace realmente?
+
+El código fuente de la API sirve para definir los mensajes disponibles que se pueden intercambiar entre TWS y una aplicación API externa. 
+
+Los mensajes se intercambian a través de una conexión de socket TCP 
+utilizan un patrón de suscripción y publicación " pub/sub "
+
+se envía un mensaje desde un cliente API para suscribirse a un tipo particular de datos, después de lo cual TWS publica actualizaciones sobre ese tipo de datos a medida que ocurren en tiempo real. 
+
+El código fuente de la API ayuda a traducir mensajes de nivel inferior a superior, que sea más conveniente para los programadores.
+
+La API es de código abierto y se mantiene mediante el sistema de control de versiones Git 
+
+y está alojada en el repositorio en línea GitHub (GitHub.com).
+
+Todas las actualizaciones realizadas en la fuente de la API a lo largo del tiempo se rastrean mediante Git, 
+
+y para realizar actualizaciones en la fuente de la API es necesario utilizar el programa Git.
+
+________
+
 
 Las descargas y guías de la API de TWS se pueden encontrar en el menú Comercio > API . Esto lo llevará a una página de descripción general de la API que le muestra las diferentes tecnologías en las que se ofrece la API.
 
