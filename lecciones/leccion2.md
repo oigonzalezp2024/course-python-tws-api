@@ -1,20 +1,18 @@
 
 # Curso de IBKR: Python TWS API
-|[Atrás](./leccion1.md "Atrás")|[Siguiente](./leccion3.md "Siguiente")|
+|[Atrás](./leccion1.md "Atrás")|[Siguiente](./leccion2.1.md "Siguiente")|
 |---|---:|
 
 ## Lección 2: Instalación y configuración de TWS para la API
 
-Trader Workstation (TWS) y IB Gateway son aplicaciones de software independiente y se integran con la TWS API de IBKR y se pueden utilizar con aplicaciones comerciales personalizadas o de terceros.
+Trader Workstation (TWS) y IB Gateway son aplicaciones de software independiente, se integran con la TWS API de IBKR y se pueden utilizar con aplicaciones comerciales personalizadas o de terceros.
 
-se integran con nuestra API
-y se pueden utilizar con aplicaciones comerciales personalizadas o de terceros.
+Trader Workstation es la aplicación comercial principal de escritorio de Interactive Brokers, se puede descargar y ejecutar de forma gratuita desde el sitio web 
+www.interactivebrokers.com en el menú Trading > Plataformas.
 
-Configuraciones TWS/IB Gateway 
-que son necesarias para conectar un cliente API 
-y aquellas que pueden afectar la realización de pedidos.
+En el sitio de descarga, notará que hay versiones 'en línea' que se actualizan automáticamente con nuevas versiones, así como versiones 'sin conexión' en la parte inferior que nunca se actualizan. 
 
-Contenido a traducir: [link...](https://ibkrcampus.com/trading-lessons/installing-configuring-tws-for-the-api/ "link...")
+Cuando acceda al sitio, el servidor detectará automáticamente el sistema operativo de su navegador y proporcionará la descarga correspondiente automáticamente, sin embargo, todas las versiones de TWS están disponibles para su uso con Windows, Linux o Mac.
 
 |[Atrás](./leccion1.md "Atrás")|[Siguiente](./leccion3.md "Siguiente")|
 |---|---:|
