@@ -31,5 +31,5 @@ Guía de referencia de API y Guía del usuario de IB Gateway | https://ibkrcampu
 | Portal del IB  | https://gdcdyn.interactivebrokers.com/en/index.php?f=16454 |
 | Investors MarketPlace para desarrolladores externos  | https://gdcdyn.interactivebrokers.com/Marketplace/InvestorsMarketplace |
 
-|[Atrás](./leccion1.md "Atrás")|[Atrás](./leccion2.md "Atrás")|
+|[Atrás](./lecciones/leccion10.md "Atrás")|[Siguiente](./lecciones/leccion2.md "Siguiente")|
 |---|---:|
