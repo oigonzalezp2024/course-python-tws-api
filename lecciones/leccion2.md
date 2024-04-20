@@ -14,5 +14,5 @@ En el sitio de descarga, notará que hay versiones 'en línea' que se actualizan
 
 Cuando acceda al sitio, el servidor detectará automáticamente el sistema operativo de su navegador y proporcionará la descarga correspondiente automáticamente, sin embargo, todas las versiones de TWS están disponibles para su uso con Windows, Linux o Mac.
 
-|[Atrás](./leccion1.md "Atrás")|[Siguiente](./leccion3.md "Siguiente")|
+|[Atrás](./leccion1.md "Atrás")|[Siguiente](./leccion2.1.md "Siguiente")|
 |---|---:|
