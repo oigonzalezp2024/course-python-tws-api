@@ -49,7 +49,6 @@ Algunos atributos de pedido que no se pueden configurar desde la API se configur
 
 En la próxima lección examinaremos el código fuente de la API en sí y discutiremos las clases principales de la API.
 
-Contenido a traducir: [link...](https://ibkrcampus.com/trading-lessons/installing-configuring-tws-for-the-api/ "link...")
 
 |[Atrás](./leccion2.2.md "Atrás")|[Siguiente](./leccion3.md "Siguiente")|
 |---|---:|
